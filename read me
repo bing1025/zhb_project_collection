@@ -22,3 +22,11 @@ springboot-SpringSecurity2
 来源：CSDN 
 原文：https://blog.csdn.net/u012373815/article/details/55225079 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+
+为了弥补上面的   https://blog.csdn.net/u012373815/article/details/55225079 的 项目  没成功的遗憾，特意 找寻了一个相似的项目，运行试验成功
+
+
+# Spring-Security
+用来简单的验证spring security的权限信息，处理了登陆成功、失败、退出、认证不通过时的方式，以及不需要权限验证的路径的设置
+实现了Spring Boot + Spring Security的Restful格式返回参数。
+https://357029540.iteye.com/blog/2329730
