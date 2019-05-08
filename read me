@@ -11,3 +11,14 @@ springboot-SpringSecurity1
 博客 springBoot+springSecurity 数据库动态管理用户、角色、权限（二） 地址：http://blog.csdn.net/u012373815/article/details/54633046
 springboot-SpringSecurity2
 博客 springboot+security restful权限控制官方推荐（五） 地址：http://blog.csdn.net/u012373815/article/details/59749385
+
+未完待续版本：
+留下一个还没研究出效果的  https://blog.csdn.net/u012373815/article/details/55225079 的 项目，以后有空回头再接着整理
+只是实现了用户、角色、权限的动态管理，但是其权限管理是有缺陷的，他不支持restful风格的接口权限管理，因为他无法区分客户端的请求方式。
+本片博客是为了弥补此缺陷的，本篇博客将在 springBoot+springSecurity 数据库动态管理用户、角色、权限（二） 
+的基础上进行修改使其支持 restful 风格的接口的权限管理。
+--------------------- 
+作者：双斜杠少年 
+来源：CSDN 
+原文：https://blog.csdn.net/u012373815/article/details/55225079 
+版权声明：本文为博主原创文章，转载请附上博文链接！
