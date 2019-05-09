@@ -30,3 +30,10 @@ springboot-SpringSecurity2
 用来简单的验证spring security的权限信息，处理了登陆成功、失败、退出、认证不通过时的方式，以及不需要权限验证的路径的设置
 实现了Spring Boot + Spring Security的Restful格式返回参数。
 https://357029540.iteye.com/blog/2329730
+
+
+Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目，该种子项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动，专注于业务代码的编写，减少加班。下面是一个简单的使用演示，看如何基于本项目在短短几十秒钟内实现一套简单的API，并运行提供服务。
+
+
+ThreadProject 项目
+java.util.concurrent工具包以简化并发完成。将有效的减少竞争条件（race conditions）和死锁线程。https://github.com/zhaoshiling1017/ThreadProject
